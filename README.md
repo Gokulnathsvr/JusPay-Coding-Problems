@@ -16,11 +16,11 @@ JusPay technical rounds heavily emphasize specific computer science concepts. Th
 *(Note: Adjust the file extensions to match your primary language, e.g., `.cpp`, `.java`, or `.py`)*
 
 * **`/Tree-of-Space/`**: Contains solutions for the N-ary tree node locking problem.
-  * `NodeLocking.java` / `.cpp`
+  * `NodeLocking.java`
 * **`/Graph-Challenges/`**: Contains solutions for graph-based routing and cycle problems.
-  * `MaximumWeightNode.java` / `.cpp`
-  * `LargestSumCycle.java` / `.cpp`
-  * `FindReachability.java` / `.cpp`
+  * `MaximumWeightNode.java` 
+  * `LargestSumCycle.java` 
+  * `FindReachability.java` 
 * **`README.md`**: This documentation file.
 
 ## 🚀 How to Run the Solutions
